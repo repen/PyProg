@@ -15,3 +15,7 @@
 * [Requests eng](https://requests.readthedocs.io/en/master/)
 * [Beautiful Soup eng](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Beautiful Soup rus](http://wiki.python.su/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/BeautifulSoup)
+
+### Реализация proxy в selenium 
+* [chrome + plugin ](https://stackoverflow.com/questions/55582136/how-to-set-proxy-with-authentication-in-selenium-chromedriver-python)
+
